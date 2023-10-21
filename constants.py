@@ -1,0 +1,18 @@
+width=600
+height=800
+
+rows = 3
+cols = 3
+
+SQSIZE = 200
+LINE_WIDTH=5
+CIRC_WIDTH=15
+CROSS_WIDTH=20
+RADIUS = SQSIZE // 4
+
+#colors 
+BG_COLORS = (255,255,255)
+LINE_COLOR = (255,255,255)
+CIRC_COLOR = (94, 160, 40)
+whitee = (193,193,193)
+CROSS_COLOR = (245,77,98)
